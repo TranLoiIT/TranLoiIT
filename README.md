@@ -24,9 +24,9 @@ TypeScript end to end. React/Next on the web, Node/Express/MongoDB on the API, R
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-    <img src="assets/stack-dark.svg" alt="Tech stack: frontend, backend, mobile and tooling" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg?v=2">
+    <img src="assets/stack-dark.svg?v=2" alt="Tech stack: frontend, backend, mobile and tooling" width="100%">
   </picture>
 </p>
 
