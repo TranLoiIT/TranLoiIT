@@ -78,36 +78,36 @@
 
   <path d="M64 64H112" stroke="url(#ruleFill)" stroke-width="2"/>
 
-  <text x="64" y="96" fill="#C6FF4A" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="3.2">// FULLSTACK DEVELOPER</text>
+  <text x="64" y="96" fill="#C6FF4A" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="600" letter-spacing="3.2">// FULLSTACK DEVELOPER</text>
 
   <text x="62" y="180" fill="url(#nameFill)" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2.5">TRAN LOI</text>
 
-  <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="13">
-    <text x="64" y="214" fill="#E6EDF3" letter-spacing="0.4">@TranLoiIT</text>
-    <circle cx="170" cy="209" r="2.5" fill="#3A424C"/>
-    <text x="184" y="214" fill="#78828F" letter-spacing="0.4">MR.DAKER</text>
+  <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="15.5">
+    <text x="64" y="216" fill="#E6EDF3" letter-spacing="0.4">@TranLoiIT</text>
+    <circle cx="170" cy="211" r="2.5" fill="#3A424C"/>
+    <text x="184" y="216" fill="#78828F" letter-spacing="0.4">MR.DAKER</text>
   </g>
 
-  <text x="64" y="254" fill="#A7B0BB" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19.5" font-weight="400">I turn rough ideas into products people actually use.</text>
+  <text x="64" y="258" fill="#A7B0BB" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="400">I turn rough ideas into products people actually use.</text>
 
-  <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="10.5" font-weight="600" letter-spacing="1.2">
-    <rect x="64" y="292" width="112" height="30" rx="15" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
-    <text x="120" y="311" text-anchor="middle" fill="#D7FF7A">TYPESCRIPT</text>
+  <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="13" font-weight="600" letter-spacing="1.2">
+    <rect x="64" y="292" width="128" height="32" rx="16" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
+    <text x="128" y="313" text-anchor="middle" fill="#D7FF7A">TYPESCRIPT</text>
 
-    <rect x="184" y="292" width="82" height="30" rx="15" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
-    <text x="225" y="311" text-anchor="middle" fill="#D7FF7A">REACT</text>
+    <rect x="202" y="292" width="84" height="32" rx="16" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
+    <text x="244" y="313" text-anchor="middle" fill="#D7FF7A">REACT</text>
 
-    <rect x="274" y="292" width="92" height="30" rx="15" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
-    <text x="320" y="311" text-anchor="middle" fill="#D7FF7A">NEXT.JS</text>
+    <rect x="296" y="292" width="98" height="32" rx="16" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
+    <text x="345" y="313" text-anchor="middle" fill="#D7FF7A">NEXT.JS</text>
 
-    <rect x="374" y="292" width="96" height="30" rx="15" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
-    <text x="422" y="311" text-anchor="middle" fill="#D7FF7A">NODE.JS</text>
+    <rect x="404" y="292" width="100" height="32" rx="16" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
+    <text x="454" y="313" text-anchor="middle" fill="#D7FF7A">NODE.JS</text>
 
-    <rect x="478" y="292" width="72" height="30" rx="15" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
-    <text x="514" y="311" text-anchor="middle" fill="#D7FF7A">VUE</text>
+    <rect x="514" y="292" width="68" height="32" rx="16" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
+    <text x="548" y="313" text-anchor="middle" fill="#D7FF7A">VUE</text>
   </g>
 
-  <text x="1216" y="44" text-anchor="end" fill="#4A545F" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="10" letter-spacing="2">PORTFOLIO / 2026</text>
+  <text x="1216" y="44" text-anchor="end" fill="#4A545F" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="2">PORTFOLIO / 2026</text>
 
   <circle cx="760" cy="78" r="3" fill="#C6FF4A" class="pulse"/>
   <circle cx="768" cy="300" r="5" stroke="#C6FF4A" stroke-opacity="0.25"/>
@@ -122,32 +122,32 @@
       <circle cx="820" cy="79" r="4" fill="#FF5F57" fill-opacity="0.85"/>
       <circle cx="836" cy="79" r="4" fill="#FEBC2E" fill-opacity="0.85"/>
       <circle cx="852" cy="79" r="4" fill="#28C840" fill-opacity="0.85"/>
-      <text x="1200" y="83" text-anchor="end" fill="#5B6470" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="10.5" letter-spacing="0.8">loi.ts</text>
+      <text x="1200" y="83" text-anchor="end" fill="#5B6470" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11.5" letter-spacing="0.8">loi.ts</text>
     </g>
 
-    <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#2E3640" text-anchor="end">
+    <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11.5" fill="#2E3640" text-anchor="end">
       <text x="828" y="126">1</text>
-      <text x="828" y="153">2</text>
-      <text x="828" y="180">3</text>
-      <text x="828" y="207">4</text>
-      <text x="828" y="234">5</text>
-      <text x="828" y="276">6</text>
+      <text x="828" y="155">2</text>
+      <text x="828" y="184">3</text>
+      <text x="828" y="213">4</text>
+      <text x="828" y="242">5</text>
+      <text x="828" y="281">6</text>
     </g>
 
-    <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="13.5" xml:space="preserve">
+    <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="15.5" xml:space="preserve">
       <text x="844" y="126"><tspan fill="#C792EA">const</tspan><tspan fill="#E6EDF3"> loi </tspan><tspan fill="#8B95A1">= {</tspan></text>
 
-      <text x="844" y="153"><tspan fill="#7DD3FC">role</tspan><tspan fill="#8B95A1">: </tspan><tspan fill="#C6FF4A">"fullstack developer"</tspan><tspan fill="#8B95A1">,</tspan></text>
+      <text x="844" y="155"><tspan fill="#7DD3FC">role</tspan><tspan fill="#8B95A1">: </tspan><tspan fill="#C6FF4A">"fullstack developer"</tspan><tspan fill="#8B95A1">,</tspan></text>
 
-      <text x="844" y="180"><tspan fill="#7DD3FC">stack</tspan><tspan fill="#8B95A1">: [</tspan><tspan fill="#C6FF4A">"ts"</tspan><tspan fill="#8B95A1">, </tspan><tspan fill="#C6FF4A">"react"</tspan><tspan fill="#8B95A1">, </tspan><tspan fill="#C6FF4A">"next"</tspan><tspan fill="#8B95A1">],</tspan></text>
+      <text x="844" y="184"><tspan fill="#7DD3FC">stack</tspan><tspan fill="#8B95A1">: [</tspan><tspan fill="#C6FF4A">"ts"</tspan><tspan fill="#8B95A1">, </tspan><tspan fill="#C6FF4A">"react"</tspan><tspan fill="#8B95A1">, </tspan><tspan fill="#C6FF4A">"next"</tspan><tspan fill="#8B95A1">],</tspan></text>
 
-      <text x="844" y="207"><tspan fill="#7DD3FC">shipping</tspan><tspan fill="#8B95A1">: </tspan><tspan fill="#FBBF24">true</tspan><tspan fill="#8B95A1">,</tspan></text>
+      <text x="844" y="213"><tspan fill="#7DD3FC">shipping</tspan><tspan fill="#8B95A1">: </tspan><tspan fill="#FBBF24">true</tspan><tspan fill="#8B95A1">,</tspan></text>
 
-      <text x="844" y="234"><tspan fill="#8B95A1">};</tspan></text>
+      <text x="844" y="242"><tspan fill="#8B95A1">};</tspan></text>
 
-      <text x="844" y="276"><tspan fill="#5B6470">// now: building </tspan><tspan fill="#C6FF4A">SheetDesk</tspan></text>
+      <text x="844" y="281"><tspan fill="#5B6470">// now: building </tspan><tspan fill="#C6FF4A">SheetDesk</tspan></text>
     </g>
 
-    <rect class="blink" x="1045" y="265" width="7" height="14" rx="1" fill="#C6FF4A"/>
+    <rect class="blink" x="1086" y="270" width="8" height="15" rx="1" fill="#C6FF4A"/>
   </g>
 </svg>

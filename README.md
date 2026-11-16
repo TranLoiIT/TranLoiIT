@@ -1,7 +1,7 @@
 ﻿<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-dark.svg" alt="Tran Loi — fullstack developer" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=2">
+  <img src="assets/hero-dark.svg?v=2" alt="Tran Loi - fullstack developer" width="100%">
 </picture>
 
 <p align="center">
@@ -63,18 +63,18 @@ Two invitation sites for real weddings: animated, responsive, with the schedule,
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranLoiIT&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=C6FF4A&amp;text_color=9BA3AF&amp;icon_color=C6FF4A&amp;border_color=242A31&amp;chart_color=C6FF4A&amp;name=GitHub%20activity">
-    <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=3F6212&amp;text_color=4B5563&amp;icon_color=4D7C0F&amp;border_color=E5E7EB&amp;chart_color=4D7C0F&amp;name=GitHub%20activity" alt="GitHub activity">
+    <img width="840" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=3F6212&amp;text_color=4B5563&amp;icon_color=4D7C0F&amp;border_color=E5E7EB&amp;chart_color=4D7C0F&amp;name=GitHub%20activity" alt="GitHub activity">
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TranLoiIT&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=C6FF4A&amp;text_color=9BA3AF&amp;icon_color=C6FF4A&amp;border_color=242A31&amp;hide_logo=true">
-    <img width="250" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=3F6212&amp;text_color=4B5563&amp;icon_color=4D7C0F&amp;border_color=E5E7EB&amp;hide_logo=true" alt="GitHub stats">
+    <img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=3F6212&amp;text_color=4B5563&amp;icon_color=4D7C0F&amp;border_color=E5E7EB&amp;hide_logo=true" alt="GitHub stats">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TranLoiIT&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=C6FF4A&amp;text_color=9BA3AF&amp;icon_color=C6FF4A&amp;border_color=242A31">
-    <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=3F6212&amp;text_color=4B5563&amp;icon_color=4D7C0F&amp;border_color=E5E7EB" alt="Top languages by commit">
+    <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=3F6212&amp;text_color=4B5563&amp;icon_color=4D7C0F&amp;border_color=E5E7EB" alt="Top languages by commit">
   </picture>
 </p>
 
