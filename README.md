@@ -20,14 +20,15 @@ Fullstack developer. I like the messy middle of building products: the API contr
 
 ## 02 — Stack
 
-**Frontend**  
-<img src="https://img.shields.io/badge/TypeScript-0A0B0D?style=flat-square&amp;logo=typescript&amp;logoColor=C6FF4A" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-0A0B0D?style=flat-square&amp;logo=javascript&amp;logoColor=C6FF4A" alt="JavaScript"> <img src="https://img.shields.io/badge/React-0A0B0D?style=flat-square&amp;logo=react&amp;logoColor=C6FF4A" alt="React"> <img src="https://img.shields.io/badge/Next.js-0A0B0D?style=flat-square&amp;logo=nextdotjs&amp;logoColor=C6FF4A" alt="Next.js"> <img src="https://img.shields.io/badge/Vue.js-0A0B0D?style=flat-square&amp;logo=vuedotjs&amp;logoColor=C6FF4A" alt="Vue.js"> <img src="https://img.shields.io/badge/Nuxt-0A0B0D?style=flat-square&amp;logo=nuxtdotjs&amp;logoColor=C6FF4A" alt="Nuxt"> <img src="https://img.shields.io/badge/Tailwind%20CSS-0A0B0D?style=flat-square&amp;logo=tailwindcss&amp;logoColor=C6FF4A" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Sass-0A0B0D?style=flat-square&amp;logo=sass&amp;logoColor=C6FF4A" alt="Sass">
+TypeScript end to end. React/Next on the web, Node/Express/MongoDB on the API, React Native on mobile — plus the libraries that do the heavy lifting.
 
-**Backend**  
-<img src="https://img.shields.io/badge/Node.js-0A0B0D?style=flat-square&amp;logo=nodedotjs&amp;logoColor=C6FF4A" alt="Node.js"> <img src="https://img.shields.io/badge/Express-0A0B0D?style=flat-square&amp;logo=express&amp;logoColor=C6FF4A" alt="Express"> <img src="https://img.shields.io/badge/PHP-0A0B0D?style=flat-square&amp;logo=php&amp;logoColor=C6FF4A" alt="PHP"> <img src="https://img.shields.io/badge/MongoDB-0A0B0D?style=flat-square&amp;logo=mongodb&amp;logoColor=C6FF4A" alt="MongoDB"> <img src="https://img.shields.io/badge/Google%20Apps%20Script-0A0B0D?style=flat-square&amp;logo=googleappsscript&amp;logoColor=C6FF4A" alt="Google Apps Script">
-
-**Mobile & tooling**  
-<img src="https://img.shields.io/badge/React%20Native-0A0B0D?style=flat-square&amp;logo=react&amp;logoColor=C6FF4A" alt="React Native"> <img src="https://img.shields.io/badge/Docker-0A0B0D?style=flat-square&amp;logo=docker&amp;logoColor=C6FF4A" alt="Docker"> <img src="https://img.shields.io/badge/Nginx-0A0B0D?style=flat-square&amp;logo=nginx&amp;logoColor=C6FF4A" alt="Nginx"> <img src="https://img.shields.io/badge/Git-0A0B0D?style=flat-square&amp;logo=git&amp;logoColor=C6FF4A" alt="Git"> <img src="https://img.shields.io/badge/Vercel-0A0B0D?style=flat-square&amp;logo=vercel&amp;logoColor=C6FF4A" alt="Vercel"> <img src="https://img.shields.io/badge/Firebase-0A0B0D?style=flat-square&amp;logo=firebase&amp;logoColor=C6FF4A" alt="Firebase">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+    <img src="assets/stack-dark.svg" alt="Tech stack: frontend, backend, mobile and tooling" width="100%">
+  </picture>
+</p>
 
 ## 03 — Selected work
 
