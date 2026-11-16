@@ -1,4 +1,4 @@
-<picture>
+﻿<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
   <img src="assets/hero-dark.svg" alt="Tran Loi — fullstack developer" width="100%">
@@ -24,9 +24,9 @@ TypeScript end to end. React/Next on the web, Node/Express/MongoDB on the API, R
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg?v=2">
-    <img src="assets/stack-dark.svg?v=2" alt="Tech stack: frontend, backend, mobile and tooling" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg?v=3">
+    <img src="assets/stack-dark.svg?v=3" alt="Tech stack: frontend, backend, mobile and tooling" width="100%">
   </picture>
 </p>
 
@@ -90,3 +90,4 @@ The fastest way to reach me is right here on GitHub. If you're building somethin
 <div align="center">
   <sub>“Make it work, make it right, make it fast.” — Kent Beck</sub>
 </div>
+
