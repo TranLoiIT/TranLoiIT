@@ -1,0 +1,153 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Tran Loi — Fullstack Developer</title>
+  <desc id="heroDesc">Light banner with the name Tran Loi, handle TranLoiIT, and a code editor card.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBFBF7"/>
+      <stop offset="1" stop-color="#F2F3EB"/>
+    </linearGradient>
+
+    <radialGradient id="glowLime" cx="0" cy="0" r="1" gradientTransform="translate(1110 50) rotate(125) scale(360 260)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#84CC16" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#84CC16" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowTeal" cx="0" cy="0" r="1" gradientTransform="translate(120 380) rotate(-55) scale(340 260)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientTransform="translate(720 380) rotate(-90) scale(220 160)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#0B0D10" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+
+    <linearGradient id="nameFill" x1="64" y1="150" x2="520" y2="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0D10"/>
+      <stop offset="0.62" stop-color="#1C2416"/>
+      <stop offset="1" stop-color="#3F6212"/>
+    </linearGradient>
+
+    <linearGradient id="ruleFill" x1="64" y1="64" x2="112" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4D7C0F"/>
+      <stop offset="1" stop-color="#4D7C0F" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="frame">
+      <rect width="1280" height="360" rx="24"/>
+    </clipPath>
+
+    <clipPath id="cardClip">
+      <rect x="800" y="60" width="416" height="240" rx="16"/>
+    </clipPath>
+
+    <filter id="cardShadow" x="740" y="20" width="536" height="364" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#0B0D10" flood-opacity="0.22"/>
+    </filter>
+
+    <style>
+      .float-slow { animation: float 9s ease-in-out infinite; }
+      .blink { animation: blink 1.1s steps(1) infinite; }
+      .drift { animation: drift 14s ease-in-out infinite; }
+      .drift-slow { animation: drift 18s ease-in-out infinite reverse; }
+      .pulse { animation: pulse 6s ease-in-out infinite; }
+      @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      @keyframes drift { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(18px, -12px); } }
+      @keyframes pulse { 0%, 100% { opacity: 0.35; } 50% { opacity: 0.9; } }
+      @media (prefers-reduced-motion: reduce) {
+        .float-slow, .blink, .drift, .drift-slow, .pulse { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="360" fill="url(#bg)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <circle cx="1110" cy="50" r="360" fill="url(#glowLime)" class="drift"/>
+    <circle cx="120" cy="380" r="340" fill="url(#glowTeal)" class="drift-slow"/>
+    <circle cx="720" cy="380" r="220" fill="url(#glowViolet)" class="pulse"/>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="23.5" stroke="#0B0D10" stroke-opacity="0.10"/>
+
+  <path d="M64 64H112" stroke="url(#ruleFill)" stroke-width="2"/>
+
+  <text x="64" y="96" fill="#3F6212" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11.5" font-weight="600" letter-spacing="3.2">// FULLSTACK DEVELOPER</text>
+
+  <text x="62" y="180" fill="url(#nameFill)" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2.5">TRAN LOI</text>
+
+  <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="13">
+    <text x="64" y="214" fill="#0B0D10" letter-spacing="0.4">@TranLoiIT</text>
+    <circle cx="170" cy="209" r="2.5" fill="#C2C8BC"/>
+    <text x="184" y="214" fill="#6B7280" letter-spacing="0.4">MR.DAKER</text>
+  </g>
+
+  <text x="64" y="254" fill="#4B5563" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19.5" font-weight="400">I turn rough ideas into products people actually use.</text>
+
+  <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="10.5" font-weight="600" letter-spacing="1.2">
+    <rect x="64" y="292" width="112" height="30" rx="15" fill="#4D7C0F" fill-opacity="0.07" stroke="#4D7C0F" stroke-opacity="0.30"/>
+    <text x="120" y="311" text-anchor="middle" fill="#3F6212">TYPESCRIPT</text>
+
+    <rect x="184" y="292" width="82" height="30" rx="15" fill="#4D7C0F" fill-opacity="0.07" stroke="#4D7C0F" stroke-opacity="0.30"/>
+    <text x="225" y="311" text-anchor="middle" fill="#3F6212">REACT</text>
+
+    <rect x="274" y="292" width="92" height="30" rx="15" fill="#4D7C0F" fill-opacity="0.07" stroke="#4D7C0F" stroke-opacity="0.30"/>
+    <text x="320" y="311" text-anchor="middle" fill="#3F6212">NEXT.JS</text>
+
+    <rect x="374" y="292" width="96" height="30" rx="15" fill="#4D7C0F" fill-opacity="0.07" stroke="#4D7C0F" stroke-opacity="0.30"/>
+    <text x="422" y="311" text-anchor="middle" fill="#3F6212">NODE.JS</text>
+
+    <rect x="478" y="292" width="72" height="30" rx="15" fill="#4D7C0F" fill-opacity="0.07" stroke="#4D7C0F" stroke-opacity="0.30"/>
+    <text x="514" y="311" text-anchor="middle" fill="#3F6212">VUE</text>
+  </g>
+
+  <text x="1216" y="44" text-anchor="end" fill="#9CA3AF" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="10" letter-spacing="2">PORTFOLIO / 2026</text>
+
+  <circle cx="760" cy="78" r="3" fill="#4D7C0F" class="pulse"/>
+  <circle cx="768" cy="300" r="5" stroke="#4D7C0F" stroke-opacity="0.35"/>
+
+  <g filter="url(#cardShadow)" class="float-slow">
+    <rect x="800" y="60" width="416" height="240" rx="16" fill="#0D1013"/>
+    <rect x="800.5" y="60.5" width="415" height="239" rx="15.5" stroke="#0B0D10" stroke-opacity="0.35"/>
+
+    <g clip-path="url(#cardClip)">
+      <rect x="800" y="60" width="416" height="38" fill="#11151A"/>
+      <path d="M800 98H1216" stroke="#FFFFFF" stroke-opacity="0.07"/>
+      <circle cx="820" cy="79" r="4" fill="#FF5F57" fill-opacity="0.85"/>
+      <circle cx="836" cy="79" r="4" fill="#FEBC2E" fill-opacity="0.85"/>
+      <circle cx="852" cy="79" r="4" fill="#28C840" fill-opacity="0.85"/>
+      <text x="1200" y="83" text-anchor="end" fill="#5B6470" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="10.5" letter-spacing="0.8">loi.ts</text>
+    </g>
+
+    <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="10.5" fill="#2E3640" text-anchor="end">
+      <text x="828" y="126">1</text>
+      <text x="828" y="153">2</text>
+      <text x="828" y="180">3</text>
+      <text x="828" y="207">4</text>
+      <text x="828" y="234">5</text>
+      <text x="828" y="276">6</text>
+    </g>
+
+    <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="13.5" xml:space="preserve">
+      <text x="844" y="126"><tspan fill="#C792EA">const</tspan><tspan fill="#E6EDF3"> loi </tspan><tspan fill="#8B95A1">= {</tspan></text>
+
+      <text x="844" y="153"><tspan fill="#7DD3FC">role</tspan><tspan fill="#8B95A1">: </tspan><tspan fill="#C6FF4A">"fullstack developer"</tspan><tspan fill="#8B95A1">,</tspan></text>
+
+      <text x="844" y="180"><tspan fill="#7DD3FC">stack</tspan><tspan fill="#8B95A1">: [</tspan><tspan fill="#C6FF4A">"ts"</tspan><tspan fill="#8B95A1">, </tspan><tspan fill="#C6FF4A">"react"</tspan><tspan fill="#8B95A1">, </tspan><tspan fill="#C6FF4A">"next"</tspan><tspan fill="#8B95A1">],</tspan></text>
+
+      <text x="844" y="207"><tspan fill="#7DD3FC">shipping</tspan><tspan fill="#8B95A1">: </tspan><tspan fill="#FBBF24">true</tspan><tspan fill="#8B95A1">,</tspan></text>
+
+      <text x="844" y="234"><tspan fill="#8B95A1">};</tspan></text>
+
+      <text x="844" y="276"><tspan fill="#5B6470">// now: building </tspan><tspan fill="#C6FF4A">SheetDesk</tspan></text>
+    </g>
+
+    <rect class="blink" x="1045" y="265" width="7" height="14" rx="1" fill="#C6FF4A"/>
+  </g>
+</svg>

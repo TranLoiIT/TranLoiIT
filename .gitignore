@@ -1,0 +1,8 @@
+# Local previews (not part of the profile repo)
+preview-*.png
+rendered-preview*.html
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
