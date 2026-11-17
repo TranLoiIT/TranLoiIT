@@ -9,9 +9,11 @@ Thư mục này là một **profile repo** — repo đặc biệt có tên trùn
 | `README.md` | Nội dung profile: about, stack, dự án, stats, liên hệ |
 | `assets/hero-dark.svg` | Banner cho GitHub dark mode (có animation nhẹ) |
 | `assets/hero-light.svg` | Banner cho GitHub light mode |
+| `assets/stack-dark.svg` | Board Stack cho GitHub dark mode |
+| `assets/stack-light.svg` | Board Stack cho GitHub light mode |
 | `SETUP.md` | Hướng dẫn này (không hiện trên profile) |
 
-Banner tự đổi theo theme nhờ `<picture>` + `prefers-color-scheme`, không cần chỉnh gì.
+Banner và board Stack tự đổi theo theme nhờ `<picture>` + `prefers-color-scheme`, không cần chỉnh gì.
 
 ---
 
@@ -70,21 +72,28 @@ Trong `README.md`, mục `05 — Say hi`, tìm dòng:
 Thay bằng badge tương ứng, ví dụ:
 
 ```html
-<a href="mailto:ban@example.com"><img src="https://img.shields.io/badge/Email-0A0B0D?style=flat-square&logo=gmail&logoColor=C6FF4A" alt="Email"></a>
-<a href="https://www.linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0A0B0D?style=flat-square&logo=linkedin&logoColor=C6FF4A" alt="LinkedIn"></a>
+<a href="mailto:ban@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email"></a>
+<a href="https://www.linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"></a>
 ```
 
 ### Đổi màu nhấn
 
-Màu lime hiện tại là `C6FF4A`, nền tối là `0A0B0D`. Muốn đổi, sửa đồng loạt trong:
+Palette đang dùng đúng theo GitHub:
 
-- `README.md` (badge + query `title_color`, `icon_color`, `ring`, `fire`...)
+- Dark: nền `#0D1117`, surface `#161B22`, border `#30363D`, accent `#58A6FF`
+- Light: nền `#FFFFFF`, surface `#F6F8FA`, border `#D0D7DE`, accent `#0969DA`
+
+Muốn đổi, sửa đồng loạt trong:
+
+- `README.md` (badge + query `title_color`, `text_color`, `icon_color`, `border_color`, `chart_color`)
 - `assets/hero-dark.svg`
 - `assets/hero-light.svg`
+- `assets/stack-dark.svg`
+- `assets/stack-light.svg`
 
 ### Sửa dự án / link
 
-Nằm ở mục `03 — Selected work` trong `README.md`. Các link hiện tại đều trỏ đúng repo của mày.
+Nằm ở mục `03 — Selected work` trong `README.md`. Các link hiện tại đều trỏ đúng repo của sếp.
 
 ---
 
@@ -107,4 +116,4 @@ Profile đẹp nhưng repo trống mô tả thì vẫn loãng. Làm nhanh 4 vi�
 - Stats là widget bên thứ ba (`github-profile-summary-cards`). Đôi khi load chậm — reload là được. Repo cần public và có commit để có số liệu.
 - Ảnh banner nằm trong repo, không phụ thuộc dịch vụ ngoài.
 - Nếu đổi username sau này: đổi tên repo, đổi `username=TranLoiIT` trong các URL stats và link GitHub trong README.
-- Muốn xem trước banner: mở trực tiếp `assets/hero-dark.svg` hoặc `assets/hero-light.svg` bằng trình duyệt (double-click).
+- Muốn xem trước banner/board Stack: mở trực tiếp `assets/hero-dark.svg`, `assets/hero-light.svg`, `assets/stack-dark.svg` hoặc `assets/stack-light.svg` bằng trình duyệt (double-click).
