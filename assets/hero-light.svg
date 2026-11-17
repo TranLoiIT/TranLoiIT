@@ -10,17 +10,17 @@
 
     <radialGradient id="glowLime" cx="0" cy="0" r="1" gradientTransform="translate(1110 50) rotate(125) scale(360 260)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0969DA" stop-opacity="0.12"/>
-      <stop offset="1" stop-color="#84CC16" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0969DA" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="glowTeal" cx="0" cy="0" r="1" gradientTransform="translate(120 380) rotate(-55) scale(340 260)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#8250DF" stop-opacity="0.07"/>
-      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+      <stop offset="1" stop-color="#8250DF" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientTransform="translate(720 380) rotate(-90) scale(220 160)" gradientUnits="userSpaceOnUse">
       <stop stop-color="#0969DA" stop-opacity="0.05"/>
-      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0969DA" stop-opacity="0"/>
     </radialGradient>
 
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
