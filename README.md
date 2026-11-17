@@ -1,12 +1,12 @@
-﻿<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=2">
-  <img src="assets/hero-dark.svg?v=2" alt="Tran Loi - fullstack developer" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg?v=3">
+  <img src="assets/hero-dark.svg?v=3" alt="Tran Loi - fullstack developer" width="100%">
 </picture>
 
 <p align="center">
-  <a href="https://github.com/TranLoiIT"><img src="https://img.shields.io/github/followers/TranLoiIT?style=flat-square&amp;label=FOLLOWERS&amp;labelColor=0A0B0D&amp;color=161A1F&amp;logo=github&amp;logoColor=C6FF4A" alt="Followers on GitHub"></a>
-  <img src="https://komarev.com/ghpvc/?username=TranLoiIT&amp;label=PROFILE+VIEWS&amp;color=0A0B0D&amp;style=flat-square" alt="Profile views">
+  <a href="https://github.com/TranLoiIT"><img src="https://img.shields.io/github/followers/TranLoiIT?style=flat-square&amp;label=FOLLOWERS&amp;labelColor=0D1117&amp;color=161B22&amp;logo=github&amp;logoColor=58A6FF" alt="Followers on GitHub"></a>
+  <img src="https://komarev.com/ghpvc/?username=TranLoiIT&amp;label=PROFILE+VIEWS&amp;color=0D1117&amp;style=flat-square" alt="Profile views">
 </p>
 
 ## 01 — About
@@ -24,9 +24,9 @@ TypeScript end to end. React/Next on the web, Node/Express/MongoDB on the API, R
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=3">
-    <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg?v=3">
-    <img src="assets/stack-dark.svg?v=3" alt="Tech stack: frontend, backend, mobile and tooling" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg?v=4">
+    <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg?v=4">
+    <img src="assets/stack-dark.svg?v=4" alt="Tech stack: frontend, backend, mobile and tooling" width="100%">
   </picture>
 </p>
 
@@ -62,19 +62,19 @@ Two invitation sites for real weddings: animated, responsive, with the schedule,
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranLoiIT&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=C6FF4A&amp;text_color=9BA3AF&amp;icon_color=C6FF4A&amp;border_color=242A31&amp;chart_color=C6FF4A&amp;name=GitHub%20activity">
-    <img width="840" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=3F6212&amp;text_color=4B5563&amp;icon_color=4D7C0F&amp;border_color=E5E7EB&amp;chart_color=4D7C0F&amp;name=GitHub%20activity" alt="GitHub activity">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranLoiIT&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=58A6FF&amp;border_color=30363D&amp;chart_color=58A6FF&amp;name=GitHub%20activity">
+    <img width="840" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=0969DA&amp;border_color=D0D7DE&amp;chart_color=0969DA&amp;name=GitHub%20activity" alt="GitHub activity">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TranLoiIT&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=C6FF4A&amp;text_color=9BA3AF&amp;icon_color=C6FF4A&amp;border_color=242A31&amp;hide_logo=true">
-    <img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=3F6212&amp;text_color=4B5563&amp;icon_color=4D7C0F&amp;border_color=E5E7EB&amp;hide_logo=true" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TranLoiIT&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=58A6FF&amp;border_color=30363D&amp;hide_logo=true">
+    <img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=0969DA&amp;border_color=D0D7DE&amp;hide_logo=true" alt="GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TranLoiIT&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=C6FF4A&amp;text_color=9BA3AF&amp;icon_color=C6FF4A&amp;border_color=242A31">
-    <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=3F6212&amp;text_color=4B5563&amp;icon_color=4D7C0F&amp;border_color=E5E7EB" alt="Top languages by commit">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TranLoiIT&amp;theme=github_dark&amp;bg_color=00000000&amp;title_color=58A6FF&amp;text_color=8B949E&amp;icon_color=58A6FF&amp;border_color=30363D">
+    <img width="450" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TranLoiIT&amp;theme=github&amp;bg_color=00000000&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=0969DA&amp;border_color=D0D7DE" alt="Top languages by commit">
   </picture>
 </p>
 
@@ -83,7 +83,7 @@ Two invitation sites for real weddings: animated, responsive, with the schedule,
 The fastest way to reach me is right here on GitHub. If you're building something and the deadline is real, my inbox is open.
 
 <p>
-  <a href="https://github.com/TranLoiIT"><img src="https://img.shields.io/badge/GitHub-TranLoiIT-0A0B0D?style=flat-square&amp;logo=github&amp;logoColor=C6FF4A" alt="GitHub"></a>
+  <a href="https://github.com/TranLoiIT"><img src="https://img.shields.io/badge/GitHub-TranLoiIT-0D1117?style=flat-square&amp;logo=github&amp;logoColor=58A6FF" alt="GitHub"></a>
   <!-- Add your email / LinkedIn / Facebook badge here -->
 </p>
 

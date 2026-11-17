@@ -4,23 +4,23 @@
 
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0A0C0F"/>
-      <stop offset="1" stop-color="#080A0C"/>
+      <stop stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#0D1117"/>
     </linearGradient>
 
     <radialGradient id="glowLime" cx="0" cy="0" r="1" gradientTransform="translate(1110 50) rotate(125) scale(360 260)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C6FF4A" stop-opacity="0.18"/>
-      <stop offset="1" stop-color="#C6FF4A" stop-opacity="0"/>
+      <stop stop-color="#58A6FF" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="glowTeal" cx="0" cy="0" r="1" gradientTransform="translate(120 380) rotate(-55) scale(340 260)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#5EEAD4" stop-opacity="0.10"/>
-      <stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+      <stop stop-color="#BC8CFF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#BC8CFF" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientTransform="translate(720 380) rotate(-90) scale(220 160)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A78BFA" stop-opacity="0.10"/>
-      <stop offset="1" stop-color="#A78BFA" stop-opacity="0"/>
+      <stop stop-color="#1F6FEB" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
     </radialGradient>
 
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
@@ -29,13 +29,13 @@
 
     <linearGradient id="nameFill" x1="64" y1="150" x2="520" y2="150" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FFFFFF"/>
-      <stop offset="0.62" stop-color="#F4F7EE"/>
-      <stop offset="1" stop-color="#C6FF4A"/>
+      <stop offset="0.62" stop-color="#DCE6F2"/>
+      <stop offset="1" stop-color="#58A6FF"/>
     </linearGradient>
 
     <linearGradient id="ruleFill" x1="64" y1="64" x2="112" y2="64" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#C6FF4A"/>
-      <stop offset="1" stop-color="#C6FF4A" stop-opacity="0"/>
+      <stop stop-color="#58A6FF"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
     </linearGradient>
 
     <clipPath id="frame">
@@ -74,58 +74,58 @@
     <circle cx="720" cy="380" r="220" fill="url(#glowViolet)" class="pulse"/>
   </g>
 
-  <rect x="0.5" y="0.5" width="1279" height="359" rx="23.5" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="23.5" stroke="#30363D"/>
 
   <path d="M64 64H112" stroke="url(#ruleFill)" stroke-width="2"/>
 
-  <text x="64" y="96" fill="#C6FF4A" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="600" letter-spacing="3.2">// FULLSTACK DEVELOPER</text>
+  <text x="64" y="96" fill="#58A6FF" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="14" font-weight="600" letter-spacing="3.2">// FULLSTACK DEVELOPER</text>
 
   <text x="62" y="180" fill="url(#nameFill)" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2.5">TRAN LOI</text>
 
   <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="15.5">
-    <text x="64" y="216" fill="#E6EDF3" letter-spacing="0.4">@TranLoiIT</text>
-    <circle cx="170" cy="211" r="2.5" fill="#3A424C"/>
-    <text x="184" y="216" fill="#78828F" letter-spacing="0.4">MR.DAKER</text>
+    <text x="64" y="216" fill="#C9D1D9" letter-spacing="0.4">@TranLoiIT</text>
+    <circle cx="170" cy="211" r="2.5" fill="#30363D"/>
+    <text x="184" y="216" fill="#8B949E" letter-spacing="0.4">MR.DAKER</text>
   </g>
 
-  <text x="64" y="258" fill="#A7B0BB" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="400">I turn rough ideas into products people actually use.</text>
+  <text x="64" y="258" fill="#8B949E" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="23" font-weight="400">I turn rough ideas into products people actually use.</text>
 
   <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="13" font-weight="600" letter-spacing="1.2">
-    <rect x="64" y="292" width="128" height="32" rx="16" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
-    <text x="128" y="313" text-anchor="middle" fill="#D7FF7A">TYPESCRIPT</text>
+    <rect x="64" y="292" width="128" height="32" rx="16" fill="#58A6FF" fill-opacity="0.07" stroke="#58A6FF" stroke-opacity="0.28"/>
+    <text x="128" y="313" text-anchor="middle" fill="#79C0FF">TYPESCRIPT</text>
 
-    <rect x="202" y="292" width="84" height="32" rx="16" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
-    <text x="244" y="313" text-anchor="middle" fill="#D7FF7A">REACT</text>
+    <rect x="202" y="292" width="84" height="32" rx="16" fill="#58A6FF" fill-opacity="0.07" stroke="#58A6FF" stroke-opacity="0.28"/>
+    <text x="244" y="313" text-anchor="middle" fill="#79C0FF">REACT</text>
 
-    <rect x="296" y="292" width="98" height="32" rx="16" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
-    <text x="345" y="313" text-anchor="middle" fill="#D7FF7A">NEXT.JS</text>
+    <rect x="296" y="292" width="98" height="32" rx="16" fill="#58A6FF" fill-opacity="0.07" stroke="#58A6FF" stroke-opacity="0.28"/>
+    <text x="345" y="313" text-anchor="middle" fill="#79C0FF">NEXT.JS</text>
 
-    <rect x="404" y="292" width="100" height="32" rx="16" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
-    <text x="454" y="313" text-anchor="middle" fill="#D7FF7A">NODE.JS</text>
+    <rect x="404" y="292" width="100" height="32" rx="16" fill="#58A6FF" fill-opacity="0.07" stroke="#58A6FF" stroke-opacity="0.28"/>
+    <text x="454" y="313" text-anchor="middle" fill="#79C0FF">NODE.JS</text>
 
-    <rect x="514" y="292" width="68" height="32" rx="16" fill="#C6FF4A" fill-opacity="0.07" stroke="#C6FF4A" stroke-opacity="0.28"/>
-    <text x="548" y="313" text-anchor="middle" fill="#D7FF7A">VUE</text>
+    <rect x="514" y="292" width="68" height="32" rx="16" fill="#58A6FF" fill-opacity="0.07" stroke="#58A6FF" stroke-opacity="0.28"/>
+    <text x="548" y="313" text-anchor="middle" fill="#79C0FF">VUE</text>
   </g>
 
-  <text x="1216" y="44" text-anchor="end" fill="#4A545F" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="2">PORTFOLIO / 2026</text>
+  <text x="1216" y="44" text-anchor="end" fill="#6E7681" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11" letter-spacing="2">PORTFOLIO / 2026</text>
 
-  <circle cx="760" cy="78" r="3" fill="#C6FF4A" class="pulse"/>
-  <circle cx="768" cy="300" r="5" stroke="#C6FF4A" stroke-opacity="0.25"/>
+  <circle cx="760" cy="78" r="3" fill="#58A6FF" class="pulse"/>
+  <circle cx="768" cy="300" r="5" stroke="#58A6FF" stroke-opacity="0.25"/>
 
   <g filter="url(#cardShadow)" class="float-slow">
-    <rect x="800" y="60" width="416" height="240" rx="16" fill="#0D1013"/>
-    <rect x="800.5" y="60.5" width="415" height="239" rx="15.5" stroke="#FFFFFF" stroke-opacity="0.10"/>
+    <rect x="800" y="60" width="416" height="240" rx="16" fill="#161B22"/>
+    <rect x="800.5" y="60.5" width="415" height="239" rx="15.5" stroke="#30363D"/>
 
     <g clip-path="url(#cardClip)">
-      <rect x="800" y="60" width="416" height="38" fill="#11151A"/>
-      <path d="M800 98H1216" stroke="#FFFFFF" stroke-opacity="0.07"/>
+      <rect x="800" y="60" width="416" height="38" fill="#21262D"/>
+      <path d="M800 98H1216" stroke="#30363D"/>
       <circle cx="820" cy="79" r="4" fill="#FF5F57" fill-opacity="0.85"/>
       <circle cx="836" cy="79" r="4" fill="#FEBC2E" fill-opacity="0.85"/>
       <circle cx="852" cy="79" r="4" fill="#28C840" fill-opacity="0.85"/>
-      <text x="1200" y="83" text-anchor="end" fill="#5B6470" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11.5" letter-spacing="0.8">loi.ts</text>
+      <text x="1200" y="83" text-anchor="end" fill="#8B949E" font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11.5" letter-spacing="0.8">loi.ts</text>
     </g>
 
-    <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11.5" fill="#2E3640" text-anchor="end">
+    <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="11.5" fill="#484F58" text-anchor="end">
       <text x="828" y="126">1</text>
       <text x="828" y="155">2</text>
       <text x="828" y="184">3</text>
@@ -135,19 +135,19 @@
     </g>
 
     <g font-family="'Cascadia Code','JetBrains Mono',Consolas,monospace" font-size="15.5" xml:space="preserve">
-      <text x="844" y="126"><tspan fill="#C792EA">const</tspan><tspan fill="#E6EDF3"> loi </tspan><tspan fill="#8B95A1">= {</tspan></text>
+      <text x="844" y="126"><tspan fill="#FF7B72">const</tspan><tspan fill="#C9D1D9"> loi </tspan><tspan fill="#C9D1D9">= {</tspan></text>
 
-      <text x="844" y="155"><tspan fill="#7DD3FC">role</tspan><tspan fill="#8B95A1">: </tspan><tspan fill="#C6FF4A">"fullstack developer"</tspan><tspan fill="#8B95A1">,</tspan></text>
+      <text x="844" y="155"><tspan fill="#79C0FF">role</tspan><tspan fill="#C9D1D9">: </tspan><tspan fill="#7EE787">"fullstack developer"</tspan><tspan fill="#C9D1D9">,</tspan></text>
 
-      <text x="844" y="184"><tspan fill="#7DD3FC">stack</tspan><tspan fill="#8B95A1">: [</tspan><tspan fill="#C6FF4A">"ts"</tspan><tspan fill="#8B95A1">, </tspan><tspan fill="#C6FF4A">"react"</tspan><tspan fill="#8B95A1">, </tspan><tspan fill="#C6FF4A">"next"</tspan><tspan fill="#8B95A1">],</tspan></text>
+      <text x="844" y="184"><tspan fill="#79C0FF">stack</tspan><tspan fill="#C9D1D9">: [</tspan><tspan fill="#7EE787">"ts"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#7EE787">"react"</tspan><tspan fill="#C9D1D9">, </tspan><tspan fill="#7EE787">"next"</tspan><tspan fill="#C9D1D9">],</tspan></text>
 
-      <text x="844" y="213"><tspan fill="#7DD3FC">shipping</tspan><tspan fill="#8B95A1">: </tspan><tspan fill="#FBBF24">true</tspan><tspan fill="#8B95A1">,</tspan></text>
+      <text x="844" y="213"><tspan fill="#79C0FF">shipping</tspan><tspan fill="#C9D1D9">: </tspan><tspan fill="#FFA657">true</tspan><tspan fill="#C9D1D9">,</tspan></text>
 
-      <text x="844" y="242"><tspan fill="#8B95A1">};</tspan></text>
+      <text x="844" y="242"><tspan fill="#C9D1D9">};</tspan></text>
 
-      <text x="844" y="281"><tspan fill="#5B6470">// now: building </tspan><tspan fill="#C6FF4A">SheetDesk</tspan></text>
+      <text x="844" y="281"><tspan fill="#8B949E">// now: building </tspan><tspan fill="#58A6FF">SheetDesk</tspan></text>
     </g>
 
-    <rect class="blink" x="1086" y="270" width="8" height="15" rx="1" fill="#C6FF4A"/>
+    <rect class="blink" x="1086" y="270" width="8" height="15" rx="1" fill="#58A6FF"/>
   </g>
 </svg>
